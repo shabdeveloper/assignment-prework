@@ -64,5 +64,7 @@ echo ($website) ?  $website :  $websiteErr;
 echo "<br>";
 echo ($comment) ?  $comment :  $commentErr;
 echo "<br>";
-echo ($website) ?  $website :  $websiteErr;;
+echo $comment;
+echo "<br>";
+echo $gender;
 ?>
