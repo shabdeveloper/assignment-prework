@@ -62,7 +62,7 @@ echo ($email) ?  $email :  $emailErr;
 echo "<br>";
 echo ($website) ?  $website :  $websiteErr;
 echo "<br>";
-echo ($website) ?  $website :  $websiteErr;
+echo ($comment) ?  $comment :  $commentErr;
 echo "<br>";
 echo ($website) ?  $website :  $websiteErr;;
 ?>
